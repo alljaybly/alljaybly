@@ -2,7 +2,7 @@
 - 👀 I’m interested in all that is coding
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on freecodecamp
-- 📫 How to reach me by email
+- 📫 How to reach me by email allanjblythe@gmail.com
 
 <!---
 alljaybly/alljaybly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
